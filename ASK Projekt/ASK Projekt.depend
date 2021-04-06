@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1617717039 source:c:\c\codeblock\ask projekt\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+
